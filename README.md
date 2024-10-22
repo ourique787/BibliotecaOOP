@@ -53,6 +53,8 @@ Substituindo o primeiro por código do livro, e o segundo pelo número da pessoa
 Bom uso!!!
 
 
+O PDF com o texto está dentro da pasta BibliotecaOOP!
+
 Abaixo segue o link do vídeo explicando melhor:
 https://www.youtube.com/watch?v=_J3_CUmRCuM
 
